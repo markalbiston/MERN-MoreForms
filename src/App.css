@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  text-align: left;
+  margin-left: 20%;
 }
 
 .App-logo {
@@ -36,3 +37,30 @@
     transform: rotate(360deg);
   }
 }
+.inline{
+  display: inline;
+}
+.inlineb{
+  display: inline-block;
+}
+.box{
+  outline:2px solid black;
+  width: 660px;
+  padding: 0px 10px 10px 10px;
+  margin-top: 20px;
+}
+.validation{
+  margin-left: 14px;
+  font-size: 12px;
+  color: red;
+  font-style: italic;
+  margin-bottom: 2px;
+}
+
+/* .col{
+  width: 40%;
+  margin-left: 30px;
+}
+.col-1{
+  width: 200px;
+} */
